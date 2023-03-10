@@ -1,6 +1,6 @@
 import React from 'react';
 import routers from './router';    // 路由文件
-import {Routes, Link, Route} from 'react-router-dom';    // 路由插件
+import {Routes, Route} from 'react-router-dom';    // 路由插件
 const App = () => (
     <div className="App App-header">
         <Routes>
